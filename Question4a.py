@@ -8,4 +8,4 @@ def print_arguments(function):
 
 
 insert = int(input('insert numb'))
-print_arguments(insert)
+print_arguments(function=insert)
